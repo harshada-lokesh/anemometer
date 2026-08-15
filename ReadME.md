@@ -60,3 +60,8 @@ The system is composed of 12 custom parts designed for modular assembly:
 ├── media/                  # Assembly photos and media
 │   └── anemometer_assembly.jpg
 └── README.md               # Project documentation
+```
+
+<p align="center">
+  <img src="media/ME557_Project-4.jpg" alt="Anemometer" width="500"/>
+</p>
